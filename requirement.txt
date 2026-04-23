@@ -1,0 +1,7 @@
+ultralytics
+easyocr
+opencv-python
+pyttsx3
+requests
+numpy
+pywin32
