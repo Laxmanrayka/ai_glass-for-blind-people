@@ -61,3 +61,8 @@ python ai_glass.py
 ---
 
 ## Project structure
+ai_glass-for-blind-people/
+├── ai_glass.py
+├── requirements.txt
+├── .gitignore
+└── README.md
